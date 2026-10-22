@@ -89,11 +89,10 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":28.28947246904952,"top":87.62761788094755,"width":43.753993610223645,"height":5.268357986637058} },
-    dresscode: { mostrarTexto:false, posicao: {"left":27.4188467202476,"top":89.76237206387937,"width":46.581485248602235,"height":5.424627114446271} },
-    manual: { mostrarTexto:false, posicao: {"left":29.46357515475239,"top":89.76236108949158,"width":40.2427990215655,"height":5.194482130492144} },
+    presentes: { mostrarTexto:false, posicao: {"left":28.28947246904952,"top":87.62761788094755,"width":45.59425232128594,"height":7.339707837214184} },
+    dresscode: { mostrarTexto:false, posicao: {"left":27.4188467202476,"top":89.76237206387937,"width":45.968060478234825,"height":7.495976965023397} },
+    manual: { mostrarTexto:false, posicao: {"left":26.3964825029952,"top":88.95683224559592,"width":45.15015038438499,"height":7.726124143855085} }
   },
-
   // ----- POSIÇÃO DOS BOTÕES NA TELA PRINCIPAL ----------------------------
   // Valores em PORCENTAGEM da imagem (0 a 100). Para evitar mexer à mão,
   // use o editor (?editor=1) e cole o resultado aqui.
